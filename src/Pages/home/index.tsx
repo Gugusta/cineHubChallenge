@@ -55,6 +55,7 @@ export default function HomePage() {
       <MainHeader> Cine Hub </MainHeader>
       <SearchInputField
         type="text"
+        placeholder="Search"
         value={search}
         onChange={(ev) => setSearch(ev.target.value)}
       />
