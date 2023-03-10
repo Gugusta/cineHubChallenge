@@ -3,7 +3,7 @@
 ## Project Overview
 
 **👨🏻‍💻 Hi everyone**
-**The idea is to create a web application that allows the user to search for a user on Github and see the repositories of that user.**
+**The idea is to create a web application that allows the user to search for a Movie.
 
 ### Main Technologies
 
